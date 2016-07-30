@@ -111,3 +111,6 @@ int main(int argc, const char * argv[]) {
     return 0;
 }
 ```
+
+Reference -
+http://stackoverflow.com/questions/37308783/how-to-implement-a-nsnotificationcenter-block-style
