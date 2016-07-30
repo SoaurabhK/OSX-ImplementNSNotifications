@@ -114,3 +114,7 @@ int main(int argc, const char * argv[]) {
 
 Reference -
 http://stackoverflow.com/questions/37308783/how-to-implement-a-nsnotificationcenter-block-style
+
+https://www.mikeash.com/pyblog/friday-qa-2011-07-08-lets-build-nsnotificationcenter.html
+
+https://github.com/mikeash/MANotificationCenter
